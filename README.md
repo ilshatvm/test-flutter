@@ -30,4 +30,4 @@
 
 ## Ссылки
 1. [Figma](https://www.figma.com/file/Argrws6VDUE8Qvg2DwySIH/Untitled?node-id=0%3A1)
-2. [GitHub](https://github.com/forestvpn/forestvpn_flutter_test)
+2. [GitHub](https://github.com/Era-Developers-Studio/test-flutter)
