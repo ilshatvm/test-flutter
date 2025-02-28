@@ -5,17 +5,13 @@ void main() {
 }
 
 class ForestVPNTestApp extends StatelessWidget {
-  const ForestVPNTestApp({Key? key}) : super(key: key);
+  const ForestVPNTestApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
       title: 'ForestVPN test',
-      home: Scaffold(
-        body: Center(
-          child: Text('News screen'),
-        ),
-      ),
+      home: Scaffold(body: Center(child: Text('News screen'))),
     );
   }
 }
